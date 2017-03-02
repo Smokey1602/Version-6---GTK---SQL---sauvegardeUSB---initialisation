@@ -6,10 +6,12 @@ sur clef USB grace a l'appui d'un bouton
 Il garde les options de base:
 
   - Sauvegarde automatique toutes les minutes
+  - Sauvegarde sous dans une BDD
   - Création et sauvegarde d'un graphique
   - Interface graphique grace a opencv
   - Traitement video
   - Comptage
+  
   
 Et ajoute :
 
