@@ -1,7 +1,6 @@
 Bonjour,
 
-Ce répertoire regroupe la version 6 du compteur. Cette version n'influence en rien le traitement video. Elle ajoute simplement la sauvegarde
-sur clef USB grace a l'appui d'un bouton
+Ce répertoire regroupe la version 6 du compteur. Cette version n'influence en rien le traitement video. Elle ajoute la sauvegarde sur clef USB grace a l'appui d'un bouton mais aussi offre une interface de configuration au premier lancement du programme.
 
 Il garde les options de base:
 
