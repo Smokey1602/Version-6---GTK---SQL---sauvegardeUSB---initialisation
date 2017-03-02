@@ -15,6 +15,7 @@ Il garde les options de base:
 Et ajoute :
 
   - sauvegarde sur clef USB sur appui d'un bouton
+  - Interface d'initialisation
 
 Il suffit de compiler le fichier "camera.c" sous linux avec la librairie openCV pour essayer le programme 
 g++ -Wall -pthread -o camerapio camera.c -lpigpio -lrt ` pkg-config --cflags --libs opencv gtk+-2.0` `mysql_config --cflags --libs` 
